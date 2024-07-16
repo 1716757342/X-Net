@@ -10,6 +10,9 @@ This repository provides a basic implementation version of X-Net. 'The sparrow m
 
 <br>
 
+![Alt text](/X.png)
+
+
 ## Getting started
 
 Prespecified hyperparameters in X-Net.py are required.
