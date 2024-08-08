@@ -1,4 +1,3 @@
-
 from numpy import *
 
 def grad_clip(x,pwd = 0):
