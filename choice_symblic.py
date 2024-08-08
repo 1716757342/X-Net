@@ -1,6 +1,5 @@
 import numpy as np
 from numpy import *
-from torch.autograd import Variable
 from numpy import *
 from Symbol_change import *
 from Symbolic_computation import *
