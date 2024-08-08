@@ -1,7 +1,5 @@
-import torch
 import numpy as np
 from numpy import *
-from torch.autograd import Variable
 from numpy import *
 import matplotlib.pyplot as plt
 import warnings
