@@ -1,7 +1,5 @@
 import numpy as np
 from numpy import *
-from torch.autograd import Variable
-from numpy import *
 from Basic_functions import *
 # def sy(x,x_1):
 #     return np.array(list([x+x_1,x-x_1,mul(x,x_1),div(x,x_1),np.sin(x),np.cos(x),exp_s(x),log_s(x),sqrt_s(x),x_1]))
