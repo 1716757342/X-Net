@@ -13,7 +13,7 @@ Multilayer perception (MLP) has permeated various disciplinary domains, ranging 
 
 <br>
 
-![Alt text](/X.png)
+![Alt text](https://github.com/1716757342/X-Net/blob/main/X-Net.gif)
 
 
 ## Getting started
