@@ -1,6 +1,6 @@
 # A Novel Paradigm for Neural Computation: X-Net with Learnable Neurons and Adaptable Structure
 
-This repository provides a basic implementation version of X-Net. 'The sparrow may be small but it has all the vital organs'. This repository contains the core components and implementation details of X-Net. I hope you can appreciate the core idea of X-Net through this repository. And then help everyone to carry out further work on the basis of X-Net.
+This repository contains the implementation code for X-Net. And how to use the code in detail. In particular, we also made an animation of the dynamic training process of X-Net to help you better understand how X-Net works.
 
 [Paper](https://arxiv.org/abs/2401.01772)&nbsp;&nbsp;&nbsp;
 
